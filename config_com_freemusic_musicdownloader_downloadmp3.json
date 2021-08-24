@@ -3,11 +3,11 @@
   "block_online":false,
   "hide_download":false,
   "require_update": false,
-  "direct": "com.freemusic.musicdownloader.downloadmp3",
+  "direct": "com.phuongnt.musicdownloader.downloadmp3",
   "time_show_ads": 10000,
   "hideRate": false,
   "showAds": true,
-  "data_type":0,
+  "data_type":1,
   "listpub": [
     "EH PAAPI",
     "ऐ पप्पी",
