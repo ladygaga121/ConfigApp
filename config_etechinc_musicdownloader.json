@@ -1,10 +1,10 @@
 {
-  "version_code":4,
+  "version_code":6,
   "block_online":false,
   "hide_download":false,
   "require_update": false,
   "direct": "com.downloadmusic.musicdownloader",
-  "time_show_ads": 60000,
+  "time_show_ads": 10000,
   "hideRate": false,
   "showAds": true,
   "data_type":0,
