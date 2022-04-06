@@ -1,9 +1,9 @@
 {
-  "version_code":5,
+  "version_code":2,
   "block_online": false,
   "hide_download": false,
-  "require_update": true,
-  "direct": "com.musicplayer.videoplayer.puretube.twistplayer",
+  "require_update": false,
+  "direct": "com.memodownload.downloadmp3",
   "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
