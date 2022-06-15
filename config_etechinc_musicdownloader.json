@@ -1,9 +1,9 @@
 {
-  "version_code":11,
+  "version_code":12,
   "block_online":false,
   "hide_download":false,
-  "require_update": false,
-  "direct": "com.etechmusic.musicdownloader",
+  "require_update": true,
+  "direct": "com.memodownload.downloadmp3",
   "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
