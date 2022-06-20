@@ -4,7 +4,7 @@
     "hide_download": false,
     "require_update": false,
     "direct": "com.memodownload.downloadmp3",
-    "time_show_ads": 0,
+    "time_show_ads": 5000,
     "hideRate": false,
     "showAds": true,
     "data_type": 0,
