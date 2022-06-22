@@ -3,7 +3,7 @@
     "block_online": false,
     "hide_download": false,
     "require_update": true,
-    "direct": "com.memodownload.downloadmp3",
+    "direct": "com.musicplayer.videoplayer.puretube.twistplayer",
     "time_show_ads": 5000,
     "hideRate": false,
     "showAds": true,
