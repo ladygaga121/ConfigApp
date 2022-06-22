@@ -1,6 +1,6 @@
 {
   "youtube_type": 4,
   "require_update": false,
-  "time_show_ads":5000,
+  "time_show_ads":0,
   "version_code": 1
 }
