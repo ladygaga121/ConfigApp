@@ -7,8 +7,11 @@
     "time_show_ads": 0,
     "hideRate": false,
     "showAds": true,
-    "data_type": 1,
+    "data_type": 0,
     "listpub": [
+        "Official Video",
+        "Ed Sheeran",
+        "Sheeran",
         "TINI, L-GANTE - BAR (OFFICIAL VIDEO)",
         "OFFICIAL VIDEO",
         "L-GANTE",
