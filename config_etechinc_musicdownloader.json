@@ -1,13 +1,13 @@
 {
-    "version_code": 15,
+    "version_code": 99,
     "block_online": false,
     "hide_download": false,
     "require_update": true,
-    "direct": "com.bdmusic.musicdownloader",
+    "direct": "com.etechinc.soundclouddownloader",
     "time_show_ads": 5000,
     "hideRate": false,
     "showAds": true,
-    "data_type": 0,
+    "data_type": 5,
     "listpub": [
         "TINI, L-GANTE - BAR (OFFICIAL VIDEO)",
         "OFFICIAL VIDEO",
