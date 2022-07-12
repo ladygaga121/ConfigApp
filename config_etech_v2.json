@@ -6,8 +6,8 @@
   "direct": "com.etechinc.soundclouddownloader",
   "time_show_ads": 30000,
   "hideRate": false,
-  "showAds": false,
-  "data_type": 1,
+  "showAds": true,
+  "data_type": 0,
   "listpub": [
     "Official Video",
     "Ed Sheeran",
