@@ -1,13 +1,13 @@
 {
   "version_code": 1,
   "block_online": false,
-  "hide_download": false,
+  "hide_download": true,
   "require_update": false,
   "direct": "com.etechinc.soundclouddownloader",
   "time_show_ads": 30000,
   "hideRate": false,
   "showAds": true,
-  "data_type": 0,
+  "data_type": 3,
   "listpub": [
     "Official Video",
     "Ed Sheeran",
