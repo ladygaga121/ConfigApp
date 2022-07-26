@@ -1,9 +1,9 @@
 {
-  "version_code": 1,
+  "version_code": 10,
   "block_online": false,
   "hide_download": false,
-  "require_update": false,
-  "direct": "com.bdmusic.musicdownloader",
+  "require_update": true,
+  "direct": "com.etechinc.soundclouddownloader",
   "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
