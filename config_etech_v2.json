@@ -8,7 +8,7 @@
   "hideRate": false,
   "showAds": true,
   "data_type": 1,
-  "show_native_admob":true,
+  "show_native_admob":false,
   "show_banner_admob":false,
   "listpub": [
     "Official Video",
