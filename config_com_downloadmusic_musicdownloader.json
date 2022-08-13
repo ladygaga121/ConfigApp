@@ -9,7 +9,7 @@
   "showAds": true,
   "show_native_admob":true,
   "show_banner_admob":true,
-  "data_type": 0,
+  "data_type": 1,
   "listpub": [
     "Official Video",
     "Ed Sheeran",
