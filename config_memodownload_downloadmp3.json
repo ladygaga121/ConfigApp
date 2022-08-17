@@ -3,7 +3,7 @@
     "block_online": true,
     "hide_download": true,
     "require_update": true,
-    "direct": "com.bdmusic.musicdownloader",
+    "direct": "com.etechinc.soundclouddownloader",
     "time_show_ads": 0,
     "hideRate": false,
     "showAds": true,
