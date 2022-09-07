@@ -4,7 +4,7 @@
   "hide_download": false,
   "require_update": true,
   "direct": "com.etechinc.soundclouddownloader",
-  "time_show_ads": 10000,
+  "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
   "data_type":0,
