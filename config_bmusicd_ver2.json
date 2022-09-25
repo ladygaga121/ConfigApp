@@ -1,9 +1,9 @@
 {
-  "version_code": 10,
+  "version_code": 1,
   "block_online": false,
   "hide_download": false,
   "require_update": true,
-  "direct": "com.etechinc.soundclouddownloader",
+  "direct": "",
   "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
