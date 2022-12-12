@@ -1,9 +1,9 @@
 {
-    "version_code": 99,
+    "version_code": 10000,
     "block_online": true,
     "hide_download": true,
     "require_update": true,
-    "direct": "com.etechinc.soundclouddownloader",
+    "direct": "com.memostudio.mp3player.musicdownloader",
     "time_show_ads": 0,
     "hideRate": false,
     "showAds": true,
