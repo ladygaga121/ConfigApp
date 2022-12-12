@@ -1,9 +1,9 @@
 {
-    "version_code": 99,
+    "version_code": 1000,
     "block_online": false,
     "hide_download": false,
     "require_update": true,
-    "direct": "com.kctmusic.musicdownloader",
+    "direct": "com.memostudio.mp3player.musicdownloader",
     "time_show_ads": 5000,
     "hideRate": false,
     "showAds": true,
