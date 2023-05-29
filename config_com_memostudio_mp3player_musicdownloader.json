@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
+  "version_code": 100000,
   "require_update": true,
-  "direct": "",
+  "direct": "com.downloadmusics.musicdownloaders.downloadmp3",
   "data_type": 0,
   "listpub": [
     "Universal Music Group",
