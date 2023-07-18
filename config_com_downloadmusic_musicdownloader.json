@@ -1,9 +1,9 @@
 {
-  "version_code": 0,
+  "version_code": 10000,
   "block_online": false,
   "hide_download": false,
   "require_update": true,
-  "direct": "com.downloadmusics.musicdownloaders.downloadmp3",
+  "direct": "com.downloadmp3player.musicdownloader.freemusicdownloader",
   "time_show_ads": 5000,
   "hideRate": false,
   "showAds": true,
