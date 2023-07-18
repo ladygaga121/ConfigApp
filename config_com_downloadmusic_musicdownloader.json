@@ -2,7 +2,7 @@
   "version_code": 10000,
   "block_online": false,
   "hide_download": false,
-  "require_update": true,
+  "require_update": false,
   "direct": "com.downloadmp3player.musicdownloader.freemusicdownloader",
   "time_show_ads": 5000,
   "hideRate": false,
