@@ -1,7 +1,7 @@
 {
   "version_code": 0,
   "block_online": false,
-  "show_download": true,
+  "show_download": false,
   "require_update": false,
   "direct": "",
   "time_show_ads": 5000,
