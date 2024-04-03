@@ -2,7 +2,7 @@
   "version_code": 20,
   "require_update": true,
   "direct": "com.downloadmusics.musicdownloaders.downloadmp3",
-  "data_type":1,
+  "data_type":0,
   "listpub": [
     "yeah1",
     "yeah 1",
